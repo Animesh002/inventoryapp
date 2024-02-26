@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158344800093",
+    "project_id": "subhash-inventory-app",
+    "storage_bucket": "subhash-inventory-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158344800093:android:948a936146ecfcdb4c6ab4",
+        "android_client_info": {
+          "package_name": "com.example.inventory_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAyv4jMwDnUJ0ypkDdp6ghP10Vyqlu40w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
